@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Netlify Deployment at
+## Live Demo - Go Live
 
-This project has an automatic deployment running on Netlify using the following url:
-https;//datacris-clothing.netlify.app
+Continuos Deployment configured with Netlify,\ 
+Open: [https;//datacris-clothing.netlify.app](https;//datacris-clothing.netlify.app)
 
 ## Available Scripts
 
