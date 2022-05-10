@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Netlify Deployment at
+
+This project has an automatic deployment running on Netlify using the following url:
+https;//datacris-clothing.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
