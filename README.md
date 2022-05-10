@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo - Go Live
 
-Continuos Deployment configured with Netlify,\ 
-Open: [https;//datacris-clothing.netlify.app](https;//datacris-clothing.netlify.app)
+Continuos Deployment configured with Netlify.\
+Open: [https://datacris-clothing.netlify.app](https://datacris-clothing.netlify.app)
 
 ## Available Scripts
 
